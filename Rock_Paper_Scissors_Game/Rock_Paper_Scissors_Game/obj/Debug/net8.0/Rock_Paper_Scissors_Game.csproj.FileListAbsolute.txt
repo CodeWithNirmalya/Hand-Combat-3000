@@ -1,0 +1,14 @@
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\net8.0\Rock_Paper_Scissors_Game.exe
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\net8.0\Rock_Paper_Scissors_Game.deps.json
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\net8.0\Rock_Paper_Scissors_Game.runtimeconfig.json
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\net8.0\Rock_Paper_Scissors_Game.dll
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\net8.0\Rock_Paper_Scissors_Game.pdb
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.AssemblyInfoInputs.cache
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.AssemblyInfo.cs
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.csproj.CoreCompileInputs.cache
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.dll
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\refint\Rock_Paper_Scissors_Game.dll
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.pdb
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\Rock_Paper_Scissors_Game.genruntimeconfig.cache
+C:\Users\Nirmalya\source\repos\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\net8.0\ref\Rock_Paper_Scissors_Game.dll

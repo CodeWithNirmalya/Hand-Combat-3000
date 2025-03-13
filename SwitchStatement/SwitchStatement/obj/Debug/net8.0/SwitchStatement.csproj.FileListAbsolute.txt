@@ -1,0 +1,14 @@
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\Nirmalya\source\repos\SwitchStatement\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll
